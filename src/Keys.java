@@ -57,8 +57,7 @@ public class Keys {
             }
             playNoteByIndex(extensionIndex);
         }
-
-        //playNoteByIndex(rootIndex);
+        
         playNoteByIndex(thirdIndex);
     }
 
